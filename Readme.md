@@ -1,7 +1,3 @@
-# Feature development branches are for 
-- each developer to test their ideas in isolation and without impacting other developers
+# Beta is the branch for building apps for early testers
 
-
-## Alpha is the branch for building apps for early testers
-
-- These could be a small group of keen users or power users, sometimes including the development team.
+- These could be a **medium** group of receptive users who are keen to provide feedback.
